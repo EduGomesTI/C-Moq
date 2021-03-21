@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZqGs0n/OdExw4Hcjk2f8fZKWgJM3ZHLtMbIhHgxWqQUauMPipMWtlqvynDtWvo7AFxOb1jA9eGamzdS40Z1ZxA==",
+  "dgSpecHash": "HIQ83xYCWBqPB9HhlNL4Aa1t8FI0Snin2tmpjSQrBKbOt+hMXmiyeaJ/s3EKV6Hv9ncTHDJ0u+jj5W9wEFW75w==",
   "success": true,
   "projectFilePath": "h:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\CreditCardApplications.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Eduardo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

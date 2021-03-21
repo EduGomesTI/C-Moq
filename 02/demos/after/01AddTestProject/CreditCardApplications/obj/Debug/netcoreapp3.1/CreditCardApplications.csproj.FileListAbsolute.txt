@@ -1,0 +1,9 @@
+h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp3.1\CreditCardApplications.deps.json
+h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp3.1\CreditCardApplications.dll
+h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications\bin\Debug\netcoreapp3.1\CreditCardApplications.pdb
+h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.csprojAssemblyReference.cache
+h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.AssemblyInfoInputs.cache
+h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.AssemblyInfo.cs
+h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.csproj.CoreCompileInputs.cache
+h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.dll
+h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications\obj\Debug\netcoreapp3.1\CreditCardApplications.pdb
