@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "h:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\CreditCardApplications.csproj": {}
+    "H:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\CreditCardApplications.csproj": {}
   },
   "projects": {
-    "h:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\CreditCardApplications.csproj": {
+    "H:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\CreditCardApplications.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "h:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\CreditCardApplications.csproj",
+        "projectUniqueName": "H:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\CreditCardApplications.csproj",
         "projectName": "CreditCardApplications",
-        "projectPath": "h:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\CreditCardApplications.csproj",
+        "projectPath": "H:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\CreditCardApplications.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "h:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\obj\\",
+        "outputPath": "H:\\developer\\GitHub\\moq\\02\\demos\\after\\01AddTestProject\\CreditCardApplications\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

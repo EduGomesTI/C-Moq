@@ -98,3 +98,5 @@ h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications.T
 h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications.Tests\obj\Debug\netcoreapp3.1\CreditCardApplications.Tests.genruntimeconfig.cache
 h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications.Tests\bin\Debug\netcoreapp3.1\CoverletSourceRootsMapping
 h:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications.Tests\bin\Debug\netcoreapp3.1\testhost.exe
+H:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications.Tests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+H:\developer\GitHub\moq\02\demos\after\01AddTestProject\CreditCardApplications.Tests\bin\Debug\netcoreapp3.1\Moq.dll
